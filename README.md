@@ -1,4 +1,4 @@
-<h1 align="center">welcome  to my profile</h1>
+<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
@@ -22,10 +22,6 @@
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
 </div>
 
 ###
